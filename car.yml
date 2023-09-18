@@ -1,0 +1,11 @@
+car:
+  manufacturer: volvo
+  model: v70
+  year: 2000
+  attributes:
+    - kombi
+    - diesel
+    - manual
+    - 4wd
+  reg: abc123
+
