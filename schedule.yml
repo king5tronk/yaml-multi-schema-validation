@@ -1,6 +1,6 @@
 schedule:
-    year: "2022"
-program: "Python"
+year: "2022"
+program: Python
 lessons:
   - date: "2022-01-01"
     description: New Year's Day
