@@ -2,9 +2,9 @@ person:
   name:
     first_name: Stig
     last_name: Johansson
-    age: 42
-    class: 1
-    start_year: 1979
-    hobbies:
+  age: 42
+  class: 1
+  start_year: 1979
+  hobbies:
     - football
     - golf
