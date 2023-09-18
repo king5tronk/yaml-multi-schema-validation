@@ -3,11 +3,11 @@ computer:
     manufacturer: Intel
     cores: 8
     frequency: 3.2
-    memory:
+  memory:
       manufacturer: Samsung
       size: 16
       type: DDR4
-    disk:
+  disk:
         manufacturer: Samsung
         size: 512
         type: SSD
